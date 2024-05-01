@@ -16,6 +16,10 @@ public class JavaApplication6 {
     public static void main(String[] args) {
 int num = 3;
         System.out.println("hola Mundo " +3);
+        
+        int num1=20;
+        
+        System.out.println("segunda ronda"+num+ +num1);
     }
     
 }
