@@ -14,8 +14,8 @@ public class JavaApplication6 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-
-        System.out.println("hola Mundo");
+int num = 3;
+        System.out.println("hola Mundo " +3);
     }
     
 }
